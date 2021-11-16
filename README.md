@@ -26,14 +26,14 @@ Network architecure
 ▶ The self-supervised task is applied to reduce the domain shift between the two data modalities. we define a sample of the source images, where xc s is the RGB image
 and xd is the Depth image.
 
-![self](/images/puz.png)
+![self](/images/puz.PNG)
 <p align = "center">
 Self-Supervision Task
 </p>
 
 ▶ Regarding the results, the proposed method was able to promote the baseline by 14% in accuracy by integrating the pretext task which shows improvement in the reduction of domain gap by aligning the distributions of features between the two domains. With the purposed variation, domain adaptation with Jigsaw Puzzle, the accuracy is further improved by nearly 2% which is a considerable.
 
-![res](/images/res.png)
+![res](/images/res.PNG)
 <p align = "center">
 Results
 </p>
